@@ -54,6 +54,8 @@
 
 """
 
+from typing import *
+
 # leetcode submit region begin(Prohibit modification and deletion)
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
