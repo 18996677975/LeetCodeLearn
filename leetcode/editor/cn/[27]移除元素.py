@@ -1,4 +1,6 @@
 """
+移除元素
+
 # 给你一个数组 nums 和一个值 val，你需要 原地 移除所有数值等于 val 的元素。元素的顺序可能发生改变。然后返回 nums 中与 val 不同的元
 # 素的数量。 
 # 
@@ -61,7 +63,7 @@
 # 
 #  Related Topics数组 | 双指针 
 # 
-#  👍 2228, 👎 0 
+#  👍 2228, 👎 0bug 反馈 | 使用指南 | 更多配套插件 
 # 
 # 
 # 
@@ -69,10 +71,12 @@
 
 """
 
+from typing import *
+
 # leetcode submit region begin(Prohibit modification and deletion)
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
-        slow, fast = 0, 0
+        fast, slow = 0, 0
         while fast < len(nums):
             if nums[fast] != val:
                 nums[slow] = nums[fast]

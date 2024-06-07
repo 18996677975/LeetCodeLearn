@@ -1,4 +1,6 @@
 """
+删除排序链表中的重复元素
+
 # 给定一个已排序的链表的头
 #  head ， 删除所有重复的元素，使每个元素只出现一次 。返回 已排序的链表 。 
 # 
@@ -30,7 +32,7 @@
 # 
 #  Related Topics链表 
 # 
-#  👍 1130, 👎 0 
+#  👍 1131, 👎 0bug 反馈 | 使用指南 | 更多配套插件 
 # 
 # 
 # 
@@ -38,26 +40,26 @@
 
 """
 
+from typing import *
+
 # leetcode submit region begin(Prohibit modification and deletion)
 # Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
+class ListNode:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
 class Solution:
     def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if not head:
             return head
 
         slow, fast = head, head.next
-
         while fast:
-            if fast.val != slow.val:
-                slow.next = fast
+            if fast.val == slow.val:
+                slow.next = fast.next
+            else:
                 slow = slow.next
             fast = fast.next
-        slow.next = None
 
         return head
-
 # leetcode submit region end(Prohibit modification and deletion)
