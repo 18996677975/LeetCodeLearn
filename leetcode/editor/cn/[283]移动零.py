@@ -1,4 +1,6 @@
 """
+移动零
+
 # 给定一个数组 nums，编写一个函数将所有 0 移动到数组的末尾，同时保持非零元素的相对顺序。 
 # 
 #  请注意 ，必须在不复制数组的情况下原地对数组进行操作。 
@@ -34,7 +36,7 @@
 # 
 #  Related Topics数组 | 双指针 
 # 
-#  👍 2382, 👎 0 
+#  👍 2384, 👎 0bug 反馈 | 使用指南 | 更多配套插件 
 # 
 # 
 # 
@@ -42,14 +44,16 @@
 
 """
 
+from typing import *
+
 # leetcode submit region begin(Prohibit modification and deletion)
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
         """
         Do not return anything, modify nums in-place instead.
         """
+        fast, slow = 0, 0
 
-        slow, fast = 0, 0
         while fast < len(nums):
             if nums[fast] != 0:
                 nums[slow] = nums[fast]
