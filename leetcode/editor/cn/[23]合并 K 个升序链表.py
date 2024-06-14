@@ -55,6 +55,7 @@
 """
 
 from typing import *
+import heapq
 
 # leetcode submit region begin(Prohibit modification and deletion)
 # Definition for singly-linked list.
@@ -62,7 +63,30 @@ class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
         self.next = next
+    def __lt__(self, other):
+        return self.val < other.val
+
+
+ListNode.lt = lambda self, other: self.val < other.val
+
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+        if not lists:
+            return None
+        dummy = ListNode(-1)
+        head = dummy
+        # 创建一个空堆
+        heap = []
+        for p in lists:
+            if p:
+                heapq.heappush(heap, (p.val, id(p), p))
 
+        while heap:
+            p = heapq.heappop(heap)[2]
+            head.next = p
+            head = head.next
+            if p.next:
+                heapq.heappush(heap, (p.next.val, id(p.next), p.next))
+
+        return dummy.next
 # leetcode submit region end(Prohibit modification and deletion)

@@ -60,4 +60,12 @@ from typing import *
 # leetcode submit region begin(Prohibit modification and deletion)
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
+        dic = {}
+        for i in range(len(nums)):
+            if dic.get(target - nums[i], -1) == -1:
+                dic[nums[i]] = i
+            else:
+                return [dic.get(target - nums[i]), i]
+            # print(dic)
+        return []
 # leetcode submit region end(Prohibit modification and deletion)
