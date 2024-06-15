@@ -36,6 +36,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[167]两数之和 II - 输入有序数组.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[167]两数之和 II - 输入有序数组.md" />
+              <option name="frontendQuestionId" value="leetcode.cn167" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[167]两数之和 II - 输入有序数组.py" />
+              <option name="titleSlug" value="two-sum-ii-input-array-is-sorted" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[19]删除链表的倒数第 N 个结点.py">
           <value>
             <LeetcodeEditor>
@@ -66,6 +77,72 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[23]合并 K 个升序链表.py" />
               <option name="titleSlug" value="merge-k-sorted-lists" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[26]删除有序数组中的重复项.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[26]删除有序数组中的重复项.md" />
+              <option name="frontendQuestionId" value="leetcode.cn26" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[26]删除有序数组中的重复项.py" />
+              <option name="titleSlug" value="remove-duplicates-from-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[27]移除元素.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[27]移除元素.md" />
+              <option name="frontendQuestionId" value="leetcode.cn27" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[27]移除元素.py" />
+              <option name="titleSlug" value="remove-element" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[283]移动零.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[283]移动零.md" />
+              <option name="frontendQuestionId" value="leetcode.cn283" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[283]移动零.py" />
+              <option name="titleSlug" value="move-zeroes" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[344]反转字符串.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[344]反转字符串.md" />
+              <option name="frontendQuestionId" value="leetcode.cn344" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[344]反转字符串.py" />
+              <option name="titleSlug" value="reverse-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[5]最长回文子串.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[5]最长回文子串.md" />
+              <option name="frontendQuestionId" value="leetcode.cn5" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[5]最长回文子串.py" />
+              <option name="titleSlug" value="longest-palindromic-substring" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[83]删除排序链表中的重复元素.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[83]删除排序链表中的重复元素.md" />
+              <option name="frontendQuestionId" value="leetcode.cn83" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[83]删除排序链表中的重复元素.py" />
+              <option name="titleSlug" value="remove-duplicates-from-sorted-list" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -127,10 +204,10 @@
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[167]两数之和 II - 输入有序数组.py">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[167]两数之和 II - 输入有序数组.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[167]两数之和 II - 输入有序数组.md" />
               <option name="frontendQuestionId" value="leetcode.cn167" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[167]两数之和 II - 输入有序数组.py" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[167]两数之和 II - 输入有序数组.py" />
               <option name="titleSlug" value="two-sum-ii-input-array-is-sorted" />
             </LeetcodeEditor>
           </value>
@@ -204,10 +281,10 @@
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[26]删除有序数组中的重复项.py">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[26]删除有序数组中的重复项.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[26]删除有序数组中的重复项.md" />
               <option name="frontendQuestionId" value="leetcode.cn26" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[26]删除有序数组中的重复项.py" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[26]删除有序数组中的重复项.py" />
               <option name="titleSlug" value="remove-duplicates-from-sorted-array" />
             </LeetcodeEditor>
           </value>
@@ -215,10 +292,10 @@
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[27]移除元素.py">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[27]移除元素.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[27]移除元素.md" />
               <option name="frontendQuestionId" value="leetcode.cn27" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[27]移除元素.py" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[27]移除元素.py" />
               <option name="titleSlug" value="remove-element" />
             </LeetcodeEditor>
           </value>
@@ -226,10 +303,10 @@
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[283]移动零.py">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[283]移动零.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[283]移动零.md" />
               <option name="frontendQuestionId" value="leetcode.cn283" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[283]移动零.py" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[283]移动零.py" />
               <option name="titleSlug" value="move-zeroes" />
             </LeetcodeEditor>
           </value>
@@ -237,10 +314,10 @@
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[344]反转字符串.py">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[344]反转字符串.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[344]反转字符串.md" />
               <option name="frontendQuestionId" value="leetcode.cn344" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[344]反转字符串.py" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[344]反转字符串.py" />
               <option name="titleSlug" value="reverse-string" />
             </LeetcodeEditor>
           </value>
@@ -248,10 +325,10 @@
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[5]最长回文子串.py">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[5]最长回文子串.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[5]最长回文子串.md" />
               <option name="frontendQuestionId" value="leetcode.cn5" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[5]最长回文子串.py" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[5]最长回文子串.py" />
               <option name="titleSlug" value="longest-palindromic-substring" />
             </LeetcodeEditor>
           </value>
@@ -259,10 +336,10 @@
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[83]删除排序链表中的重复元素.py">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[83]删除排序链表中的重复元素.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[83]删除排序链表中的重复元素.md" />
               <option name="frontendQuestionId" value="leetcode.cn83" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[83]删除排序链表中的重复元素.py" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[83]删除排序链表中的重复元素.py" />
               <option name="titleSlug" value="remove-duplicates-from-sorted-list" />
             </LeetcodeEditor>
           </value>
