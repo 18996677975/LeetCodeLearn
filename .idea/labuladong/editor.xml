@@ -3,6 +3,28 @@
   <component name="LeetcodeEditorlabuladong">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[1094]拼车.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[1094]拼车.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1094" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[1094]拼车.py" />
+              <option name="titleSlug" value="car-pooling" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[1109]航班预订统计.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[1109]航班预订统计.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1109" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[1109]航班预订统计.py" />
+              <option name="titleSlug" value="corporate-flight-bookings" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[141]环形链表.py">
           <value>
             <LeetcodeEditor>
@@ -110,6 +132,28 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[283]移动零.py" />
               <option name="titleSlug" value="move-zeroes" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[303]区域和检索 - 数组不可变.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[303]区域和检索 - 数组不可变.md" />
+              <option name="frontendQuestionId" value="leetcode.cn303" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[303]区域和检索 - 数组不可变.py" />
+              <option name="titleSlug" value="range-sum-query-immutable" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[304]二维区域和检索 - 矩阵不可变.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[304]二维区域和检索 - 矩阵不可变.md" />
+              <option name="frontendQuestionId" value="leetcode.cn304" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[304]二维区域和检索 - 矩阵不可变.py" />
+              <option name="titleSlug" value="range-sum-query-2d-immutable" />
             </LeetcodeEditor>
           </value>
         </entry>
