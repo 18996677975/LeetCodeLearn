@@ -60,20 +60,18 @@ from typing import *
 # leetcode submit region begin(Prohibit modification and deletion)
 class Solution:
     def kthSmallest(self, matrix: List[List[int]], k: int) -> int:
-        qp = []
+        heap = []
 
         for i in range(len(matrix)):
-            heapq.heappush(qp, [matrix[i][0], i, 0])
+            heapq.heappush(heap, [matrix[i][0], i, 0])
 
-        while len(qp) > 0 and k > 0:
-            cur = heapq.heappop(qp)
-            res = cur[0]
-            i, j = cur[1], cur[2]
-
+        while len(heap) > 0 and k > 0:
+            cur = heapq.heappop(heap)
+            num, i, j = cur[0], cur[1], cur[2]
             k -= 1
 
             if j + 1 < len(matrix[i]):
-                heapq.heappush(qp, [matrix[i][j + 1], i, j + 1])
+                heapq.heappush(heap, [matrix[i][j + 1], i, j + 1])
 
-        return res
+        return num
 # leetcode submit region end(Prohibit modification and deletion)

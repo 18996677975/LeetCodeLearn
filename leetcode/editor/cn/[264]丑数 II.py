@@ -44,5 +44,27 @@ from typing import *
 # leetcode submit region begin(Prohibit modification and deletion)
 class Solution:
     def nthUglyNumber(self, n: int) -> int:
+        p2, p3, p5 = 1, 1, 1
+        product2, product3, product5 = 1, 1, 1
+        p = 1
+
+        ugly = [0] * (n + 1)
+
+        while p <= n:
+            minv = min(product2, product3, product5)
+            ugly[p] = minv
+            p += 1
+
+            if minv == product2:
+                product2 = ugly[p2] * 2
+                p2 += 1
+            if minv == product3:
+                product3 = ugly[p3] * 3
+                p3 += 1
+            if minv == product5:
+                product5 = ugly[p5] * 5
+                p5 += 1
+
+        return ugly[n]
 
 # leetcode submit region end(Prohibit modification and deletion)

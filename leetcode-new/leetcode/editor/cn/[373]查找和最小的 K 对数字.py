@@ -55,22 +55,21 @@ from typing import *
 # leetcode submit region begin(Prohibit modification and deletion)
 class Solution:
     def kSmallestPairs(self, nums1: List[int], nums2: List[int], k: int) -> List[List[int]]:
-        qp = []
+        heap = []
 
         for i in range(len(nums1)):
-            heapq.heappush(qp, [nums1[i] + nums2[0], nums1[i], nums2[0], 0])
+            heapq.heappush(heap, [nums1[i] + nums2[0], nums1[i], nums2[0], 0])
 
         res = []
 
-        while len(qp) > 0 and k > 0:
-            _, num1, num2, idx = heapq.heappop(qp)
-
+        while len(heap) > 0 and k > 0:
+            _, num1, num2, idx = heapq.heappop(heap)
             k -= 1
 
             next_idx = idx + 1
 
             if next_idx < len(nums2):
-                heapq.heappush(qp, [num1 + nums2[next_idx], num1, nums2[next_idx], next_idx])
+                heapq.heappush(heap, [num1 + nums2[next_idx], num1, nums2[next_idx], next_idx])
 
             res.append([num1, num2])
 
