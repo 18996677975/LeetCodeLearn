@@ -3,6 +3,17 @@
   <component name="LeetcodeEditorlabuladong">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[1004]最大连续1的个数 III.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[1004]最大连续1的个数 III.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1004" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[1004]最大连续1的个数 III.py" />
+              <option name="titleSlug" value="max-consecutive-ones-iii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[104]二叉树的最大深度.py">
           <value>
             <LeetcodeEditor>
@@ -146,6 +157,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[1658]将 x 减到 0 的最小操作数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[1658]将 x 减到 0 的最小操作数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1658" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[1658]将 x 减到 0 的最小操作数.py" />
+              <option name="titleSlug" value="minimum-operations-to-reduce-x-to-zero" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[167]两数之和 II - 输入有序数组.py">
           <value>
             <LeetcodeEditor>
@@ -165,6 +187,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[1836]从未排序的链表中移除重复元素.py" />
               <option name="titleSlug" value="remove-duplicates-from-an-unsorted-linked-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[187]重复的DNA序列.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[187]重复的DNA序列.md" />
+              <option name="frontendQuestionId" value="leetcode.cn187" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[187]重复的DNA序列.py" />
+              <option name="titleSlug" value="repeated-dna-sequences" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -212,6 +245,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[219]存在重复元素 II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[219]存在重复元素 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn219" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[219]存在重复元素 II.py" />
+              <option name="titleSlug" value="contains-duplicate-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[21]合并两个有序链表.py">
           <value>
             <LeetcodeEditor>
@@ -220,6 +264,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[21]合并两个有序链表.py" />
               <option name="titleSlug" value="merge-two-sorted-lists" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[220]存在重复元素 III.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[220]存在重复元素 III.md" />
+              <option name="frontendQuestionId" value="leetcode.cn220" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[220]存在重复元素 III.py" />
+              <option name="titleSlug" value="contains-duplicate-iii" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -399,6 +454,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[395]至少有 K 个重复字符的最长子串.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[395]至少有 K 个重复字符的最长子串.md" />
+              <option name="frontendQuestionId" value="leetcode.cn395" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[395]至少有 K 个重复字符的最长子串.py" />
+              <option name="titleSlug" value="longest-substring-with-at-least-k-repeating-characters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[3]无重复字符的最长子串.py">
           <value>
             <LeetcodeEditor>
@@ -410,6 +476,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[424]替换后的最长重复字符.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[424]替换后的最长重复字符.md" />
+              <option name="frontendQuestionId" value="leetcode.cn424" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[424]替换后的最长重复字符.py" />
+              <option name="titleSlug" value="longest-repeating-character-replacement" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[438]找到字符串中所有字母异位词.py">
           <value>
             <LeetcodeEditor>
@@ -418,6 +495,28 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[438]找到字符串中所有字母异位词.py" />
               <option name="titleSlug" value="find-all-anagrams-in-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[45]跳跃游戏 II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[45]跳跃游戏 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn45" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[45]跳跃游戏 II.py" />
+              <option name="titleSlug" value="jump-game-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[48]旋转图像.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[48]旋转图像.md" />
+              <option name="frontendQuestionId" value="leetcode.cn48" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[48]旋转图像.py" />
+              <option name="titleSlug" value="rotate-image" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -454,6 +553,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[54]螺旋矩阵.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[54]螺旋矩阵.md" />
+              <option name="frontendQuestionId" value="leetcode.cn54" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[54]螺旋矩阵.py" />
+              <option name="titleSlug" value="spiral-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[560]和为 K 的子数组.py">
           <value>
             <LeetcodeEditor>
@@ -473,6 +583,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[567]字符串的排列.py" />
               <option name="titleSlug" value="permutation-in-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[59]螺旋矩阵 II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[59]螺旋矩阵 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn59" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[59]螺旋矩阵 II.py" />
+              <option name="titleSlug" value="spiral-matrix-ii" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -506,6 +627,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[704]二分查找.py" />
               <option name="titleSlug" value="binary-search" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[713]乘积小于 K 的子数组.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[713]乘积小于 K 的子数组.md" />
+              <option name="frontendQuestionId" value="leetcode.cn713" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[713]乘积小于 K 的子数组.py" />
+              <option name="titleSlug" value="subarray-product-less-than-k" />
             </LeetcodeEditor>
           </value>
         </entry>
