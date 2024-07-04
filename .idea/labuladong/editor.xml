@@ -542,6 +542,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[46]全排列.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[46]全排列.md" />
+              <option name="frontendQuestionId" value="leetcode.cn46" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[46]全排列.py" />
+              <option name="titleSlug" value="permutations" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[48]旋转图像.py">
           <value>
             <LeetcodeEditor>
@@ -550,6 +561,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[48]旋转图像.py" />
               <option name="titleSlug" value="rotate-image" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[51]N 皇后.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[51]N 皇后.md" />
+              <option name="frontendQuestionId" value="leetcode.cn51" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[51]N 皇后.py" />
+              <option name="titleSlug" value="n-queens" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -572,6 +594,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[525]连续数组.py" />
               <option name="titleSlug" value="contiguous-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[52]N 皇后 II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[52]N 皇后 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn52" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[52]N 皇后 II.py" />
+              <option name="titleSlug" value="n-queens-ii" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -704,6 +737,28 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[76]最小覆盖子串.py" />
               <option name="titleSlug" value="minimum-window-substring" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[77]组合.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[77]组合.md" />
+              <option name="frontendQuestionId" value="leetcode.cn77" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[77]组合.py" />
+              <option name="titleSlug" value="combinations" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[78]子集.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[78]子集.md" />
+              <option name="frontendQuestionId" value="leetcode.cn78" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[78]子集.py" />
+              <option name="titleSlug" value="subsets" />
             </LeetcodeEditor>
           </value>
         </entry>
