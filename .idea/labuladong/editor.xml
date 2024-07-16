@@ -14,6 +14,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[100]相同的树.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[100]相同的树.md" />
+              <option name="frontendQuestionId" value="leetcode.cn100" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[100]相同的树.py" />
+              <option name="titleSlug" value="same-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[104]二叉树的最大深度.py">
           <value>
             <LeetcodeEditor>
@@ -297,6 +308,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[220]存在重复元素 III.py" />
               <option name="titleSlug" value="contains-duplicate-iii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[230]二叉搜索树中第K小的元素.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[230]二叉搜索树中第K小的元素.md" />
+              <option name="frontendQuestionId" value="leetcode.cn230" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[230]二叉搜索树中第K小的元素.py" />
+              <option name="titleSlug" value="kth-smallest-element-in-a-bst" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -663,6 +685,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[538]把二叉搜索树转换为累加树.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[538]把二叉搜索树转换为累加树.md" />
+              <option name="frontendQuestionId" value="leetcode.cn538" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[538]把二叉搜索树转换为累加树.py" />
+              <option name="titleSlug" value="convert-bst-to-greater-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[543]二叉树的直径.py">
           <value>
             <LeetcodeEditor>
@@ -748,6 +781,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[654]最大二叉树.py" />
               <option name="titleSlug" value="maximum-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[700]二叉搜索树中的搜索.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[700]二叉搜索树中的搜索.md" />
+              <option name="frontendQuestionId" value="leetcode.cn700" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[700]二叉搜索树中的搜索.py" />
+              <option name="titleSlug" value="search-in-a-binary-search-tree" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -905,6 +949,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[94]二叉树的中序遍历.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[94]二叉树的中序遍历.md" />
+              <option name="frontendQuestionId" value="leetcode.cn94" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[94]二叉树的中序遍历.py" />
+              <option name="titleSlug" value="binary-tree-inorder-traversal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[974]和可被 K 整除的子数组.py">
           <value>
             <LeetcodeEditor>
@@ -924,6 +979,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[977]有序数组的平方.py" />
               <option name="titleSlug" value="squares-of-a-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[98]验证二叉搜索树.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/doc/content/[98]验证二叉搜索树.md" />
+              <option name="frontendQuestionId" value="leetcode.cn98" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode-new/leetcode/editor/cn/[98]验证二叉搜索树.py" />
+              <option name="titleSlug" value="validate-binary-search-tree" />
             </LeetcodeEditor>
           </value>
         </entry>
